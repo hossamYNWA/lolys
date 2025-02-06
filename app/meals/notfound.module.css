@@ -1,0 +1,16 @@
+.headerText {
+  margin: auto;
+  font-size: 3.5rem;
+  text-transform: uppercase;
+  font-family: "Montserrat", sans-serif;
+  text-shadow: 0 0 0.5rem rgba(0, 0, 0, 0.5);
+  color: rgb(216, 97, 18);
+  text-align: center;
+}
+
+.mainText {
+  margin: 20px auto;
+  color: wheat;
+  text-align: center;
+  width: 100%;
+}
